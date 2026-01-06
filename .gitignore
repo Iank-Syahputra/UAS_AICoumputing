@@ -1,0 +1,12 @@
+# Abaikan folder virtual environment
+venv/
+__pycache__/
+
+# Abaikan file Environment (RAHASIA!)
+.env
+
+# Abaikan file history (agar user baru mulai dari kosong)
+*.pkl
+
+# Abaikan file sistem
+.DS_Store
