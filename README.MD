@@ -1,6 +1,6 @@
 ## 1. SETUP THE ENVIRONMENT:
 
-    python -m venv myenv
+    python -m venv venv
     venv/scripts/activate
 
 ## 2. Install Packages :
